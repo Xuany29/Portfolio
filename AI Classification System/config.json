@@ -1,0 +1,7 @@
+{
+  "default_model": "CNN",
+  "cnn": {"epochs": 20, "batch_size": 32},
+  "rf": {"n_estimators": 100, "max_depth": 10},
+  "lstm": {"sequence_length": 10, "hidden_units": 64},
+  "data_path": "traffic_data.csv"
+}
