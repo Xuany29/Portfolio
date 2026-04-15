@@ -35,6 +35,10 @@ This system is designed to classify traffic conditions and predict optimal route
 - Tensorflow
 ## 🤖 Run Application
 - The AI model file is too large to be uploaded to GitHub, so the application cannot be run directly from this repository.
+## 🚨 Application Preview
+<img width="1919" height="1037" alt="AI" src="https://github.com/user-attachments/assets/51434582-39e2-447f-a3f6-57dfe1ad5b74" />
+<img width="1919" height="1034" alt="AI(3)" src="https://github.com/user-attachments/assets/6f2557f2-1b57-43f1-8084-963e0ad792d5" />
+<img width="1919" height="1035" alt="AI(2)" src="https://github.com/user-attachments/assets/234adef1-9b55-4552-9d9b-d368614319b6" />
 
 # Software Testing
 The following link provides access to the automated software testing project implemented using GitHub Actions:
