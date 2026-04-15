@@ -34,7 +34,9 @@ This system is designed to classify traffic conditions and predict optimal route
 - Python
 - Tensorflow
 ## 🤖 Run Application
-1. Open Anaconda Prompt  
-2. Navigate to the project folder containing the script  
-3. Run the following command:
-   streamlit run gui.py
+- The AI model file is too large to be uploaded to GitHub, so the application cannot be run directly from this repository.
+
+# Software Testing
+The following link provides access to the automated software testing project implemented using GitHub Actions:
+
+https://github.com/SUTS-SWE30009/software-testing-project-extension-tasks-Xuany29
